@@ -44,9 +44,13 @@ Tutorials
 
 ### Abstract
 
+> Your Abstract will appear in the online schedule and give attendees a sense of your talk. This should be around 100 words or less.
+
 Abstract
 
 ### Description
+
+> Your placement in the program will be based on reviews of your description. This should be a roughly 500-word outline of your presentation. This outline should concisely describe software of interest to the SciPy community, tools or techniques for more effective computing, or how scientific Python was applied to solve a research problem. A traditional background/motivation, methods, results, and conclusion structure is encouraged but not required. Links to project websites, source code repositories, figures, full papers, and evidence of public speaking ability are encouraged.
 
 Description
 
