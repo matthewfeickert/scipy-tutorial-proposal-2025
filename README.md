@@ -141,7 +141,11 @@ As Linux containers are their own technology that can be quite complex, all Linu
 
 ### Notes
 
-Notes
+* Matthew Feickert (speaker / instruction team member) has been awarded a [US Research Software Sustainability Institute Early-Career Fellowship](https://urssi.us/blog/2024/11/22/call-for-proposals-for-the-urssi-early-career-fellowship-program/) to research reproducible machine learning workflow standards for scientists.
+Part of his work will involve running a workshop in the United Sates that would cover these topics and more academic research focused problems across multiple days.
+If accepted, this tutorial would be a distilled version of the open source workshop resources he will create.
+
+* Ruben Arts  (speaker / instruction team member) is a core developer of `pixi`.
 
 ### Additional Speaker
 
