@@ -32,7 +32,7 @@ Authors of exemplary submissions from previous years have generously agreed to s
 
 ### Title
 
-X
+Reproducible Machine Learning Workflows at Scale for Scientists with pixi
 
 ### Session type
 
@@ -46,8 +46,11 @@ Tutorials
 
 > Your Abstract will appear in the online schedule and give attendees a sense of your talk. This should be around 100 words or less.
 
-Abstract
+Scientific researchers need reproducible software environments for complex applications that can run across heterogeneous computing platforms.
+Modern open source tools, like `pixi`, provide automatic reproducibility solutions for all dependencies while providing a high level interface well suited for researchers.
 
+This tutorial will provide a practical introduction to using `pixi` to easily create scientific and AI/ML environments that benefit from hardware acceleration, across multiple machines and platforms.
+The focus will be on applications using the PyTorch and JAX Python machine learning libraries with CUDA enabled, as well ad deploying these environments to production settings in Linux container images.
 ### Description
 
 > Your placement in the program will be based on reviews of your description. This should be a roughly 500-word outline of your presentation. This outline should concisely describe software of interest to the SciPy community, tools or techniques for more effective computing, or how scientific Python was applied to solve a research problem. A traditional background/motivation, methods, results, and conclusion structure is encouraged but not required. Links to project websites, source code repositories, figures, full papers, and evidence of public speaking ability are encouraged.
