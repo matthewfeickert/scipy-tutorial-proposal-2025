@@ -30,6 +30,8 @@ Authors of exemplary submissions from previous years have generously agreed to s
 
 ## Submission
 
+* [Public review preview](https://cfp.scipy.org/scipy2025/talk/review/K9KPCJZNPWMRGDN7RMQLCQGMK37HRY3U)
+
 ### Title
 
 Reproducible Machine Learning Workflows for Scientists with pixi
