@@ -203,7 +203,8 @@ As Linux containers are their own technology that can be quite complex, all Linu
 
 > If available, the tutorial notes, slides, exercise files, and IPython notebooks, even if they are preliminary.
 
-The tutorial does not yet exist, but example components of it exist in the `pixi` documentation:
+The tutorial has not been written yet but will be developed at https://github.com/matthewfeickert-talks/reproducible-ml-for-scientists-with-pixi-scipy-2025.
+Example components of what will go into the tutorial exist in the `pixi` documentation:
 
 * [Tutorial: Doing Python development with Pixi](https://pixi.sh/latest/tutorials/python/)
 
