@@ -85,11 +85,19 @@ To make the tutorial more practical and interactive, cloud GPU resources will be
 Part of his work will involve running a workshop in the United Sates that would cover these topics and more academic research focused problems across multiple days.
 If accepted, this tutorial would be a distilled version of the open source workshop resources he will create.
 
-* [Ruben Arts](https://github.com/ruben-arts/)  (speaker / instruction team member) is a core developer of `pixi`.
+* [Ruben Arts](https://github.com/ruben-arts/)  (speaker / instruction team member) is a core maintainer of `pixi` at [Prefix.dev](https://prefix.dev/).
+He regularly speaks and teaches at events like [PyData Eindhoven](https://www.youtube.com/watch?v=P7CO25cx4CI), [PyCon DE](https://youtu.be/sVc0PmeSUNk?si=CmQI34s2rCInerC7&t=444), and various podcasts. More content can be found on the [Prefix.dev YouTube Channel](https://www.youtube.com/@prefix_dev).
 
 ### Additional Speaker
 
 * Ruben Arts, ruben.arts[no-spam-please]hotmail.com
+
+#### Bio
+
+[Ruben Arts](https://github.com/ruben-arts/) is a core maintainer of `pixi` at [Prefix.dev](https://prefix.dev/).
+Originally a Robotics Engineer, he experienced firsthand the challenges of package management in research and industry.
+This led him to join Prefix.dev, where he focuses on building better tools for reproducibility and ease of onboarding, especially in education and research.
+He regularly speaks and teaches at events like [PyData Eindhoven](https://www.youtube.com/watch?v=P7CO25cx4CI), [PyCon DE](https://youtu.be/sVc0PmeSUNk?si=CmQI34s2rCInerC7&t=444), and various podcasts. More content can be found on the [Prefix.dev YouTube Channel](https://www.youtube.com/@prefix_dev).
 
 ### Session image
 
@@ -207,6 +215,8 @@ The tutorial has not been written yet but will be developed at https://github.co
 Example components of what will go into the tutorial exist in the `pixi` documentation:
 
 * [Tutorial: Doing Python development with Pixi](https://pixi.sh/latest/tutorials/python/)
+* [Tutorial: How to use Pytorch with Pixi](https://pixi.sh/latest/features/pytorch/)
+* [Examples: Directory full of example `pixi` use cases](https://github.com/prefix-dev/pixi/examples/)
 
 and various GitHub repositories:
 
