@@ -49,7 +49,7 @@ Tutorials
 > Your Abstract will appear in the online schedule and give attendees a sense of your talk. This should be around 100 words or less.
 
 Scientific researchers need reproducible software environments for complex applications that can run across heterogeneous computing platforms.
-Modern open source tools, like `pixi`, provide automatic reproducibility solutions for all dependencies while providing a high level interface well suited for researchers.
+Modern open source tools, like [`pixi`](https://pixi.sh/), provide automatic reproducibility solutions for all dependencies while providing a high level interface well suited for researchers.
 
 This tutorial will provide a practical introduction to using `pixi` to easily create scientific and AI/ML environments that benefit from hardware acceleration, across multiple machines and platforms.
 The focus will be on applications using the PyTorch and JAX Python machine learning libraries with CUDA enabled, as well as deploying these environments to production settings in Linux container images.
