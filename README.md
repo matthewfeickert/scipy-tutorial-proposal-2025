@@ -52,7 +52,7 @@ Scientific researchers need reproducible software environments for complex appli
 Modern open source tools, like `pixi`, provide automatic reproducibility solutions for all dependencies while providing a high level interface well suited for researchers.
 
 This tutorial will provide a practical introduction to using `pixi` to easily create scientific and AI/ML environments that benefit from hardware acceleration, across multiple machines and platforms.
-The focus will be on applications using the PyTorch and JAX Python machine learning libraries with CUDA enabled, as well ad deploying these environments to production settings in Linux container images.
+The focus will be on applications using the PyTorch and JAX Python machine learning libraries with CUDA enabled, as well as deploying these environments to production settings in Linux container images.
 
 ### Description
 
@@ -66,7 +66,7 @@ With significant recent advancements by the NVIDIA open source team and the cond
 This significantly reduces the overhead to _install_ CUDA dependencies, but packaging and distribution of binaries alone does not solve the problem of reproducibility.
 With automatic multi-platform hash-level lock file support for all dependencies that are available on package indexes (like PyPI and conda-forge), highly efficient solving strategies, and high level user interfaces, `pixi` provides a missing piece to the scientific researcher toolkit.
 With `pixi`, researchers are able to easily specify the hardware acceleration requirements they have, multiple different computational environments needed for their experiments, and the required software dependencies, and then quickly solve for a multi-platform lock file of all the dependencies required, down to the compiler level.
-This makes it possible to have multiple hardware accelerated environments defined that are able to run AI/ML workflows across heterogenous machines with different GPU types and CUDA compatibility.
+This makes it possible to have multiple hardware accelerated environments defined that are able to run AI/ML workflows across heterogeneous machines with different GPU types and CUDA compatibility.
 
 This tutorial will be targeted on scientific researchers who use Python for scientific computing and use hardware accelerated workflows in their research, with a particular focus on AI/ML.
 No prior expertise with hardware accelerator systems is assumed.
@@ -82,7 +82,7 @@ To make the tutorial more practical and interactive, cloud GPU resources will be
 ### Notes
 
 * [Matthew Feickert](https://github.com/matthewfeickert) (speaker / instruction team member) has been awarded a [US Research Software Sustainability Institute Early-Career Fellowship](https://urssi.us/blog/2024/11/22/call-for-proposals-for-the-urssi-early-career-fellowship-program/) to research reproducible machine learning workflow standards for scientists.
-Part of his work will involve running a workshop in the United Sates that would cover these topics and more academic research focused problems across multiple days.
+Part of his work will involve running a workshop in the United States that would cover these topics and more academic research focused problems across multiple days.
 If accepted, this tutorial would be a distilled version of the open source workshop resources he will create.
 
 * [Ruben Arts](https://github.com/ruben-arts/)  (speaker / instruction team member) is a core maintainer of `pixi` at [Prefix.dev](https://prefix.dev/).
