@@ -68,9 +68,9 @@ With automatic multi-platform hash-level lock file support for all dependencies 
 With `pixi`, researchers are able to easily specify the hardware acceleration requirements they have, multiple different computational environments needed for their experiments, and the required software dependencies, and then quickly solve for a multi-platform lock file of all the dependencies required, down to the compiler level.
 This makes it possible to have multiple hardware accelerated environments defined that are able to run AI/ML workflows across heterogeneous machines with different GPU types and CUDA compatibility.
 
-This tutorial will be targeted on scientific researchers who use Python for scientific computing and use hardware accelerated workflows in their research, with a particular focus on AI/ML.
+This tutorial will be targeted to scientific researchers who use Python for scientific computing and use hardware accelerated workflows in their research, with a particular focus on AI/ML.
 No prior expertise with hardware accelerator systems is assumed.
-The tutorial structure will begin with an introduction to `pixi` as a computational environment manager, and exploring how it provides features beyond other more common package managers that might be used for Python dependencies.
+The tutorial structure will begin with an introduction to `pixi` as a computational environment manager, and explore how it provides features beyond other more common package managers that might be used for Python dependencies.
 It will then extend to adding CUDA requirements to `pixi` environments, and provide participants with exercises for solving environments and running simple AI/ML workflows using the PyTorch and JAX machine learning libraries.
 The tutorial will then move towards more complex environment requirements in later exercises.
 The tutorial will conclude with examples and exercises focusing on deploying `pixi` workflows to production environments by distributing `pixi` environments in Linux container images.
