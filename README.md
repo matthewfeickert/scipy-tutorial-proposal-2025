@@ -81,23 +81,38 @@ To make the tutorial more practical and interactive, cloud GPU resources will be
 
 ### Notes
 
-* [Matthew Feickert](https://github.com/matthewfeickert) (speaker / instruction team member) has been awarded a [US Research Software Sustainability Institute Early-Career Fellowship](https://urssi.us/blog/2024/11/22/call-for-proposals-for-the-urssi-early-career-fellowship-program/) to research reproducible machine learning workflow standards for scientists.
-Part of his work will involve running a workshop in the United States that would cover these topics and more academic research focused problems across multiple days.
+#### [Matthew Feickert](https://github.com/matthewfeickert) (speaker / instruction team member)
+
+Matthew is an experienced instructor, and has organized and taught workshops and tutorials focused on software and statistics for particle physics for many years.
+
+Matthew has been awarded a [US Research Software Sustainability Institute (URSSI) Early-Career Fellowship](https://urssi.us/blog/2024/11/22/call-for-proposals-for-the-urssi-early-career-fellowship-program/) to research reproducible machine learning workflow standards for scientists.
+Part of his work will involve organizing and teaching a workshop in the United States that would cover these topics and more academic research focused problems across multiple days.
 If accepted, this tutorial would be a distilled version of the open source workshop resources he will create.
 
-* [Ruben Arts](https://github.com/ruben-arts/)  (speaker / instruction team member) is a core maintainer of `pixi` at [Prefix.dev](https://prefix.dev/).
+##### Recent public teaching events and tutorials
+
+* [Software design and packaging](https://github.com/si2-urssi/summerschool-July2024) - [URSSI Summer School on Research Software and Open Science 2024](https://github.com/si2-urssi/summerschool-July2024)
+* [Coffea columnar analysis framework](https://indico.cern.ch/event/1376945/contributions/5787150/) - [US ATLAS / IRIS-HEP Analysis Software Training Event 2024](https://indico.cern.ch/event/1376945/)
+* [pyhf tutorial and exploration](https://indico.cern.ch/event/1252095/contributions/5592418/) - [PyHEP 2023](https://indico.cern.ch/event/1252095/)
+   - [Video recording](https://youtu.be/FMU5K3T3uKw)
+* [pyhf Tutorial & Demo](https://indico.cern.ch/event/1293313/timetable/#sc-10-1-pyhf-tutorial-demo) - [Computational HEP Traineeship Summer School 2023](https://indico.cern.ch/event/1293313/)
+
+##### Past SciPy talks
+
+* [Distributed statistical inference with pyhf powered by funcX](https://github.com/matthewfeickert/talk-scipy-2021) - SciPy 2021
+* [pyhf: a pure Python statistical fitting library with tensors and autograd](https://github.com/matthewfeickert/talk-SciPy-2020) - SciPy 2020
+
+#### [Ruben Arts](https://github.com/ruben-arts/) (speaker / instruction team member)
+
+Ruben is a core maintainer of `pixi` at [Prefix.dev](https://prefix.dev/).
+Originally a Robotics Engineer, he experienced firsthand the challenges of package management in research and industry.
+This led him to join Prefix.dev, where he focuses on building better tools for reproducibility and ease of onboarding, especially in education and research.
+He regularly speaks and teaches at events like [PyData Eindhoven](https://www.youtube.com/watch?v=P7CO25cx4CI), [PyCon DE](https://youtu.be/sVc0PmeSUNk?si=CmQI34s2rCInerC7&t=444), and various podcasts. More content can be found on the [Prefix.dev YouTube Channel](https://www.youtube.com/@prefix_dev).
 He regularly speaks and teaches at events like [PyData Eindhoven](https://www.youtube.com/watch?v=P7CO25cx4CI), [PyCon DE](https://youtu.be/sVc0PmeSUNk?si=CmQI34s2rCInerC7&t=444), and various podcasts. More content can be found on the [Prefix.dev YouTube Channel](https://www.youtube.com/@prefix_dev).
 
 ### Additional Speaker
 
 * Ruben Arts, ruben.arts[no-spam-please]hotmail.com
-
-#### Bio
-
-[Ruben Arts](https://github.com/ruben-arts/) is a core maintainer of `pixi` at [Prefix.dev](https://prefix.dev/).
-Originally a Robotics Engineer, he experienced firsthand the challenges of package management in research and industry.
-This led him to join Prefix.dev, where he focuses on building better tools for reproducibility and ease of onboarding, especially in education and research.
-He regularly speaks and teaches at events like [PyData Eindhoven](https://www.youtube.com/watch?v=P7CO25cx4CI), [PyCon DE](https://youtu.be/sVc0PmeSUNk?si=CmQI34s2rCInerC7&t=444), and various podcasts. More content can be found on the [Prefix.dev YouTube Channel](https://www.youtube.com/@prefix_dev).
 
 ### Session image
 
