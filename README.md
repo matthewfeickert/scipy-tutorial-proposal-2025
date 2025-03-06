@@ -110,11 +110,11 @@ This led him to join Prefix.dev, where he focuses on building better tools for r
 He regularly speaks and teaches at events like [PyData Eindhoven](https://www.youtube.com/watch?v=P7CO25cx4CI), [PyCon DE](https://youtu.be/sVc0PmeSUNk?si=CmQI34s2rCInerC7&t=444), and various podcasts. More content can be found on the [Prefix.dev YouTube Channel](https://www.youtube.com/@prefix_dev).
 He regularly speaks and teaches at events like [PyData Eindhoven](https://www.youtube.com/watch?v=P7CO25cx4CI), [PyCon DE](https://youtu.be/sVc0PmeSUNk?si=CmQI34s2rCInerC7&t=444), and various podcasts. More content can be found on the [Prefix.dev YouTube Channel](https://www.youtube.com/@prefix_dev).
 
-#### [John Kirkham](jakirkham) (speaker / instruction team member)
+#### [John Kirkham](https://github.com/jakirkham/) (speaker / instruction team member)
 
 John is a senior system software engineer at NVIDIA and a member of the NVIDIA open source team.
 In addition to working on advancements to CUDA and [RAPIDS](https://rapids.ai/) to accelerate the scientific open source community, John is also a long time SciPy conference community member, and member of the conda-forge core team.
-He also actively maintains the CUDA feedstocks on conda-forge, and supports the broader scientific open source Python ecosystem in using hardware acceleration.
+He also actively maintains the [CUDA feedstocks](https://github.com/conda-forge/cuda-feedstock) on conda-forge, and supports the broader scientific open source Python ecosystem in using hardware acceleration.
 
 ### Additional Speaker
 
