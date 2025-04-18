@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> [Reproducible Machine Learning Workflows for Scientists with Pixi](https://github.com/matthewfeickert-talks/reproducible-ml-for-scientists-with-pixi-scipy-2025) has been accepted as a tutorial for [SciPy 2025](https://www.scipy2025.scipy.org/)
+
 # [SciPy 2025](https://www.scipy2025.scipy.org/) Submission Instructions
 
 ## Information
